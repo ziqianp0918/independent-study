@@ -2,5 +2,5 @@
 ___
 ## Table of contents
 
-[Entry 1](master/entries/Entry01.md)
+[Entry 1](/entries/Entry01.md)
 
