@@ -11,6 +11,6 @@ back at home. I have found a possible way out of this problem, there is a progra
 linuxbrew and Homebrew on the same machine and it would work together or perhaps it can cause the whole program to fail.
 ___
 ## Takeaways
-1.When you are following someone's ducumentation it might not always work with your own setup. When that comes just use google and try to find a way around the problem.
-2.Stuck on two topics? Pick one to start with and go really deep with it to see if you like it or not. If not **switch**.
-3.The first solution you found might not be the one that works for you. Keep looking and be specific when it comes to your google searches.
+1. When you are following someone's ducumentation it might not always work with your own setup. When that comes just use google and try to find a way around the problem.
+2. Stuck on two topics? Pick one to start with and go really deep with it to see if you like it or not. If not **switch**.
+3. The first solution you found might not be the one that works for you. Keep looking and be specific when it comes to your google searches.
