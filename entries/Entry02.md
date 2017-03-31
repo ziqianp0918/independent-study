@@ -4,10 +4,10 @@ how the program works. The way I have to set it up and how I can't really work o
 home and the school's computers are Macs, I have to change how I run the program everytime I take it back home. The process becomes very annoying to do 
 every time I take the project I worked on in class back at home.
 ___
-##EarSketch Tutorials
+## EarSketch Tutorials
 Frist step I did to start learning EarSketch is to start with the lessons EarSketch had build in on the side of their program. So far I have got to 
 unit 5 lesson 1. They start with the basic syntax to just get one sound running.
-<img src="../images/ear.png" style="width: 300px;" />
+<img src="../images/ear.png" style="width: 300px;" /> <br>
 There are many things you need befor you can start your project. Here is a list of them.
 * 
 *
