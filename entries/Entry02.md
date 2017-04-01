@@ -6,14 +6,18 @@ every time I take the project I worked on in class back at home.
 ___
 ## EarSketch Tutorials
 Frist step I did to start learning EarSketch is to start with the lessons EarSketch had build in on the side of their program. So far I have got to 
-unit 5 lesson 1. They start with the basic syntax to just get one sound running.
+Chater 1 unit 5 lesson 1. They start with the basic syntax to just get one sound running.
 <img src="../images/ear.png" style="width: 300px;" /> <br>
-There are many things you need befor you can start your project. Here is a list of them.
-* 
-*
-*
-*
-*
+There are many things you need befor you can start your project. Here is a list of them you *Must* have before starting.
+* ``from earsketch import *``
+* ``init()``
+* ``setTempo(number here to set how fast music goes)`` Number can range from 45-220.
+* ``finish()``
+Make sure you have these 4 things before you start putting music in.
+___
+Any music input must have ``fitMedia(clipName, trackNumber, startMeasure, endMeasure)``
+___
+## Adding effects to clip of music
 ___
 ## Takeaways
 1. When you are following someone's documentation it might not always work with your own setup. When that comes just use google and try to find a way around the problem.
