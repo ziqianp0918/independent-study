@@ -17,7 +17,7 @@ Any music input must have ``fitMedia(clipName, trackNumber, startMeasure, endMea
 ___
 ## Adding effects to a clip of music
 Syntax is: ``setEffect(trackNumber, effectName, effectParameter, effectValue)`` <br>
-Within the effects, there is a term called "Envelopes". These are the same as adding effects to a clip of music however, it is for *part* of the music not the whole entire
+Within the effects, there is a term call "Envelopes". These are the same as adding effects to a clip of music however, it is for *part* of the music not the whole entire
 clip.
 ___
 ## Takeaways
