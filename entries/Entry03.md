@@ -35,7 +35,7 @@ General bom for each genre of music.
 ## Custom functions
 
 ``def functionName(parameter one, parameter two):``
-There is no need for ``end``. Remember the **colon** at the end.
+There is no need for an``end``. Remember the **colon** at the end.
 
 ## Loops
 <img src="../images/Loop_Components_PY.png" style="width: 300px;" /> <br>
