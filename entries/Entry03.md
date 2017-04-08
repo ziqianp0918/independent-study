@@ -30,7 +30,7 @@ General bom for each genre of music.
 
 - *Melody Variation*: Introduce a variation of the chords, bassline, or melody before the new section. Often, a folder within the EarSketch sounds library contains variations of a similar riff. For example, take a look at the sounds under the UK_HOUSE_ARPLEAD folder.
 
-- *Riser*: A sustained note or noise that increases in pitch
+- *Riser*: A sustained note or noise that increases in pitch.
 
 ## Custom functions
 
@@ -69,11 +69,12 @@ You can also use concatenation to make a longer beat.<br>
 *concatenation* is using multiple short beats to  make a longer more complex beats.
 
 Example:
-beat1 = "0+++"
+beat1 = "0+++"<br>
 beat2 = "0+0-"
 
-beat3 = beat1 + beat2
+beat3 = beat1 + beat2<br>
 beat3 = "0+++0+0-"
+
 ---
 
 ## takeaways
