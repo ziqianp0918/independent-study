@@ -38,7 +38,7 @@ General bom for each genre of music.
 There is no need for ``end``. Remember the **colon** at the end.
 
 ## Loops
-<img src="../images/Loop_Componets_Py.png" style="width: 300px;" /> <br>
+<img src="../images/Loop_Components_PY.png" style="width: 300px;" /> <br>
 - **Loop Body**: The body of a loop contains statements that will execute repeatedly. It includes everything that is indented (using the tab key) directly after the colon :
 - **Loop Counter**: Creates a variable to be used as a loop counter.
 - **Range**: A function that makes a list of numbers for the loop counter to count through. The keyword in checks if the loop counter value is in the specified range. range() takes two arguments, a starting point (inclusive) and ending point (exclusive): range(startingNumber, endingNumber).
