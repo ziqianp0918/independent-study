@@ -68,7 +68,7 @@ Example:
 You can also use concatenation to make a longer beat.<br>
 *concatenation* is using multiple short beats to  make a longer more complex beats.
 
-Example:
+Example:<br>
 beat1 = "0+++"<br>
 beat2 = "0+0-"
 
