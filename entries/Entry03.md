@@ -77,7 +77,7 @@ beat3 = "0+++0+0-"
 
 ---
 
-## akeaways
+## Takeaways
 1. When coming across something you do not understand, even after you have read the documentation. It is a good idea to find a video of someone explaining it. Sometimes
 the visuals in the video can help you understand the topic.
 2. Take notes while learning something is very useful. When I was coding in EarSketch I often look back at my old entries to see the syntax and what parameter the function
