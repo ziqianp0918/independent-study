@@ -26,7 +26,7 @@ In the Script Headers you **must** include the _language_, _script name_, _autho
 
 
 ## Takeways
-1. Error in code: How to find them *Fast*. While writing codes often I see an error and sometimes the error message solves the problem for you. However, many time I found it does not help much besides telling me the error is happening on this certain line of code. Here are some tips to help.
-Look for things like Misspelling, Case sensitivity, Parentheses, Initializing variables names, Script setup (**For EarSketch user** (from earsketch import *, init(), setTempo(), or finish() )), Comments, Colons, equality, Indentation, Quotations, Function definitions and calling ,Parameter, argument, Indices, Punctuation.
+1. Error in code: How to find them *Fast*. While writing code often I see an error and sometimes the error message solves the problem for you. However, many time I found it does not help much besides telling me the error is happening on this certain line of code. Here are some tips to help.
+Look for things like Misspelling, Case sensitivity, Parentheses, Initializing variables names, Script setup (**For EarSketch user** (``from earsketch import *``, ``init()``, ``setTempo()``, or ``finish()`` )), Comments, Colons, equality, Indentation, Quotations, Function definitions and calling ,Parameter, argument, Indices, Punctuation.
 2. Write Concise code with good comments so when other people use them they can understand what each line of code is doing.
 
