@@ -118,7 +118,7 @@ makeBeat(drums, 1, 1, drumPattern)
 #Finish
 finish()
 ```
-Here the ``makeBeat`` fuction takes in all of the music listed in the array of drums. Then it starts on track 1 and measure 1. It start using the ``drumPattern`` to make the actual beat of the music.
+Here the ``makeBeat`` function takes in all of the music listed in the array of drums. Then it starts on track 1 and measure 1. It start using the ``drumPattern`` to make the actual beat of the music.
 
 ## Takeways
 1. *look closer.* don't just quickly skim through the documentation, the creator made it for a reason, to help others learn the topic faster. When given an example look closely at the code not just oh I know what this line of code does and so on. Learn how each line of code work with each other and really read the **comments** that are left by the creator. In one of the example about the code ``drumPattern = '0+0+11112+2+3+++'`` I had no idea that what the numbers within ``drumPattern`` mean because the previous lesson taught me that you can use 0,1,-,+ to make beats play in the ``makeBeat`` function. But the creator left helpful comments that say "each number is actually an index into the drums list". Without reading this comment I would have no idea what the number actually mean.
