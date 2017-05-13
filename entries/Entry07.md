@@ -1,4 +1,4 @@
-# Entry 7: Using random
+# Entry 7: Using random function
 
 This is week 7 of my learning in EarSketch, it is closing in to the date of my final project. Just before I make my final project I want to refresh my mind about all of the concepts I have learned in during the course. Here is me practicing the ``randint`` function.
 
