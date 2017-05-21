@@ -9,7 +9,7 @@ ___
 * [Entry 05](/entries/Entry05.md)
 * [Entry 06](/entries/Entry06.md)
 * [Entry 07](/entries/Entry07.md)
-* [Entry 08]
+* [Entry 08](/entries/Entry08.md)
 * [Entry 09]
 
 
