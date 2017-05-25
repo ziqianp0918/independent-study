@@ -12,4 +12,4 @@ ___
 * [Entry 08](/entries/Entry08.md)
 * [Entry 09]
 
-
+[Google slides](https://docs.google.com/a/hstat.org/presentation/d/10NkGImrIqiiXb-_dCjvpyLO6i-T98S9qCZhKKGcqqsQ/edit?usp=sharing)
