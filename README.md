@@ -12,5 +12,5 @@ ___
 * [Entry 08](/entries/Entry08.md)
 * [Entry 09]
 
-[Google Slides](https://docs.google.com/a/hstat.org/presentation/d/10NkGImrIqiiXb-_dCjvpyLO6i-T98S9qCZhKKGcqqsQ/edit?usp=sharing)
+[Google Slides](https://docs.google.com/a/hstat.org/presentation/d/10NkGImrIqiiXb-_dCjvpyLO6i-T98S9qCZhKKGcqqsQ/edit?usp=sharing)<br>
 [Here to try out the project](https://goo.gl/qoBKVb)
